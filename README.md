@@ -1,0 +1,4 @@
+hatenablog
+==========
+
+hatenablog script
